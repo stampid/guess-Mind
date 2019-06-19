@@ -17,5 +17,9 @@
   },
   "scripts": {
     "dev:server": "nodemon --exec babel-node src/server.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-plugin-prettier": "^3.1.0"
   }
 }
